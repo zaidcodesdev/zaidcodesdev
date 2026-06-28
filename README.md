@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Mohd. Zaid
 
-<!--
-**zaidcodesdev/zaidcodesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 Currently learning Flutter & Dart
+- 📱 Building Cross-Platform Mobile Apps
+- 💻 Android Developer
+- 🎯 Passionate about Mobile App Development
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Java
+- Android Studio
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 📱 Flutter UI Projects
+- 🧮 Calculator App (Java)
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/mohd-zaid-561487411
+
+---
+⭐ Thanks for visiting my profile!
